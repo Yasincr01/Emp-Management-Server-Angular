@@ -1,0 +1,25 @@
+{
+  "allEmployeeDetails": [
+    {
+      "username": "Yasin",
+      "email": "yasin@gmail.com",
+      "age": 21,
+      "status": "Inactive",
+      "id": "b694"
+    },
+    {
+      "id": "d028",
+      "username": "simba",
+      "email": "simba@gmail.com",
+      "age": 33,
+      "status": "Inactive"
+    },
+    {
+      "id": "5ae0",
+      "username": "John",
+      "email": "john@gmail.com",
+      "age": 33,
+      "status": "Active"
+    }
+  ]
+}
